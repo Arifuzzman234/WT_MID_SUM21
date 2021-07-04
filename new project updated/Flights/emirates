@@ -1,0 +1,36 @@
+<html>
+          <head>
+   <title>emirates</title>
+</head>
+
+<body style="background-color:PapayaWhip;">
+<table>
+<h1>Fly with Emirates <h1>
+<h3>Please give info</h3>
+<tr>
+<td><textarea>Departure</textarea></td><br>
+
+<td><Arrival place</td><br>
+
+<td><period</td><br>
+
+<td>
+<input name= "Round Trip" type="radio"> CS
+<input name= "OneWay Trip" type="radio"> CS
+</td>
+
+  <td>
+  <select name "Bags">
+  <option disabled>--select--</option>
+  <option>1</option>
+  <option>2</option>
+  <option>3</option>
+  </select>
+  
+
+
+
+
+
+</body>
+</html>
